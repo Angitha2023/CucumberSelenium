@@ -1,0 +1,7 @@
+[INFO ] 2023-11-06 15:36:18.407 [main] TestLogger - Logged into  Myntra
+[ERROR] 2023-11-06 15:36:18.509 [main] TestLogger - Exception occured
+java.lang.Exception: Element Not Found
+	at com.loggerTest.TestLogger.main(TestLogger.java:33) [test-classes/:?]
+[INFO ] 2023-11-06 15:36:19.083 [main] TestLogger - Quitting the driver
+[INFO ] 2023-11-06 15:42:33.698 [main] TestLogger - Logged into  Myntra
+[INFO ] 2023-11-06 15:42:34.309 [main] TestLogger - Quitting the driver
